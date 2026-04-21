@@ -71,21 +71,38 @@ Invoicing system with Saudi VAT/tax calculations, quotation workflows, and trans
 ## GitHub stats
 
 <!-- 
-  IMPORTANT SETUP (one-time, takes 2 minutes):
-  1. GitHub profile → Edit profile → tick "Include private contributions on my profile"
-  2. For org repos: ask your org admin to make you a public member at:
-     github.com/orgs/YOUR_ORG/people → set your visibility to Public
-  These two steps unlock all the private + org data shown below.
+  ═══════════════════════════════════════════════════════
+  SETUP CHECKLIST (one-time — must do all 3 steps)
+  ═══════════════════════════════════════════════════════
+  STEP 1 — Enable private contributions on your profile:
+    GitHub → Settings → Edit profile
+    → tick "Include private contributions on my profile"
+
+  STEP 2 — Add a Personal Access Token (PAT) as a repo secret
+    so the stats cards can read your private repos:
+    a) Go to: github.com/settings/tokens/new
+    b) Name it: STATS_TOKEN
+    c) Select scopes: repo (full) + read:user + read:org
+    d) Copy the token
+    e) Go to: github.com/hamza323/hamza323/settings/secrets/actions
+    f) Click "New repository secret"
+    g) Name: PAT_1  →  Value: paste your token
+    h) Save
+
+  STEP 3 — For org repos (Blue Silo):
+    Go to github.com/orgs/bluesilodev/people
+    → find your name → set visibility to Public
+  ═══════════════════════════════════════════════════════
 -->
 
-<!-- Main stats card: counts private commits, PRs, issues, reviews from all orgs -->
-![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza323&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&theme=default)
+<!-- Main stats: all commits + PRs + reviews from private & org repos -->
+![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza323&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&theme=default)
 
-<!-- Streak card: shows total contributions including private org activity -->
-![GitHub Streak](https://streak-stats.demolab.com?user=hamza323&hide_border=true&count_private=true&include_all_commits=true&theme=default)
+<!-- Streak: includes private repo contributions -->
+![GitHub Streak](https://streak-stats.demolab.com?user=hamza323&hide_border=true&theme=default)
 
-<!-- Top languages card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza323&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=default)
+<!-- Top languages: reads ALL repos including calc-dash, abwaab-be, farjar-be, server-be, italla, itlla-be -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza323&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&exclude_repo=hamza323,frst&theme=default)
 
 ---
 
