@@ -70,7 +70,22 @@ Invoicing system with Saudi VAT/tax calculations, quotation workflows, and trans
 
 ## GitHub stats
 
-![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza323&show_icons=true&hide_border=true&count_private=true&theme=default)
+<!-- 
+  IMPORTANT SETUP (one-time, takes 2 minutes):
+  1. GitHub profile → Edit profile → tick "Include private contributions on my profile"
+  2. For org repos: ask your org admin to make you a public member at:
+     github.com/orgs/YOUR_ORG/people → set your visibility to Public
+  These two steps unlock all the private + org data shown below.
+-->
+
+<!-- Main stats card: counts private commits, PRs, issues, reviews from all orgs -->
+![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza323&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&theme=default)
+
+<!-- Streak card: shows total contributions including private org activity -->
+![GitHub Streak](https://streak-stats.demolab.com?user=hamza323&hide_border=true&count_private=true&include_all_commits=true&theme=default)
+
+<!-- Top languages card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza323&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=default)
 
 ---
 
