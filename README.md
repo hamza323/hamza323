@@ -1,115 +1,136 @@
 # Hi, I'm Ali Hamza 👋
 
-**Full-Stack Software Engineer** · MERN · Next.js · React Native · 5+ Years  
-📍 Jeddah, Saudi Arabia &nbsp;|&nbsp; 📧 hamza01safdar@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/alihamza-9520211a2)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hamza323&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/hamza323?label=Followers&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/hamza323?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
+</p>
+
+## Full-Stack Software Engineer
+
+**MERN · Next.js · React Native · 5+ Years Experience**
+
+📍 Jeddah, Saudi Arabia  
+📧 hamza01safdar@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/alihamza-9520211a2)
 
 ---
 
-## About me
+## About Me
 
-I build scalable, production-ready web and mobile applications for the Saudi market and beyond. I've shipped full platforms as a solo engineer, led features for enterprise SaaS products, and published internal NPM packages used in production across multiple services.
+I build scalable, production-ready web and mobile applications for the Saudi market and beyond. I have shipped full platforms as a solo engineer, delivered enterprise SaaS features, and published internal NPM packages used in production across multiple services.
 
-I'm especially strong on Saudi-market requirements — **HyperPay**, **Nafath identity verification**, **Arabic/English i18n**, and **VAT-compliant business logic** — which most developers outside the region lack.
-
----
-
-## Tech stack
-
-**Frontend**  
-`React.js` `Next.js` `React Native` `TypeScript` `Redux` `React Query` `Tailwind CSS`
-
-**Backend**  
-`Node.js` `Express.js` `gRPC` `WebSockets` `REST APIs` `JWT` `Laravel`
-
-**Databases**  
-`MongoDB` `MySQL` `Mongoose`
-
-**Payments & Integrations**  
-`HyperPay` `Stripe` `PayPal` `Nafath`
-
-**DevOps & Tools**  
-`Vercel` `Git` `Bitbucket` `CI/CD` `Jest` `Agile / Scrum`
+I specialize in Saudi-market focused solutions including **HyperPay**, **Nafath identity verification**, **Arabic/English i18n**, and **VAT-compliant business workflows**.
 
 ---
 
-## Published NPM packages
+## Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=googlecloud&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Payments & Integrations
+![HyperPay](https://img.shields.io/badge/HyperPay-0A66C2?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Nafath](https://img.shields.io/badge/Nafath-006C35?style=for-the-badge)
+
+### DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-009688?style=for-the-badge)
+
+---
+
+## Published NPM Packages
 
 | Package | Description |
 |---|---|
-| [`@bluesilodev/logging`](https://www.npmjs.com/package/@bluesilodev/logging) | Activity-logging & audit-trail middleware — standardized user-action capture across services |
-| [`@bluesilodev/notification`](https://www.npmjs.com/package/@bluesilodev/notification) | Multi-channel notifications (in-app, email, WebSocket) with template management |
+| [`@bluesilodev/logging`](https://www.npmjs.com/package/@bluesilodev/logging) | Activity logging and audit trail middleware for standardized user-action tracking across services |
+| [`@bluesilodev/notification`](https://www.npmjs.com/package/@bluesilodev/notification) | Multi-channel notification system supporting in-app, email, and WebSocket delivery with template management |
 
 ---
 
-## Selected projects
+## Featured Projects
 
-### AbwaabApp — Saudi e-commerce & financing platform
-> Next.js · Node.js · MongoDB · HyperPay · Nafath · Vercel · i18n (AR/EN)
+### AbwaabApp — Saudi E-commerce & Financing Platform
+**Next.js · Node.js · MongoDB · HyperPay · Nafath · Vercel · AR/EN i18n**
 
-Sole engineer. Designed and shipped the entire platform in 18 months: order management, financing workflows, payment-hold system, Nafath identity verification, bilingual Arabic/English support, and SSR-optimized SEO on Vercel.
+Sole engineer for the full platform over 18 months, delivering order management, financing workflows, payment-hold logic, bilingual support, Nafath verification, and SSR-optimized SEO.
 
 - Integrated HyperPay with near-zero payment failures post-launch
-- Handled 1,000+ monthly transactions with validation and real-time updates via WebSockets
-- Reduced order-processing errors by ~45% and API response times by ~35%
+- Handled **1,000+ monthly transactions**
+- Reduced order-processing errors by **~45%**
+- Improved API response times by **~35%**
 
 ---
 
 ### Blue Silo Enterprise SaaS
-> MERN · gRPC · Redux · React Query · WebSockets · Jest
+**MERN · gRPC · Redux · React Query · WebSockets · Jest**
 
-5+ scalable full-stack applications for enterprise business clients. Implemented gRPC microservices reducing inter-service latency by ~40% vs REST. Live chat supporting 500+ concurrent users. 80%+ backend test coverage with 150+ Jest unit tests.
+Built and scaled **5+ full-stack enterprise applications**. Implemented gRPC microservices to reduce service-to-service latency and supported real-time communication features for large user loads.
 
----
-
-### Arch Global Logistics — invoicing & quotation system
-> React.js · Node.js · Express.js · MongoDB
-
-Invoicing system with Saudi VAT/tax calculations, quotation workflows, and transactional data management for 50+ daily internal users. Reduced manual accounting corrections by ~40%.
+- Reduced inter-service latency by **~40%**
+- Live chat support for **500+ concurrent users**
+- Achieved **80%+ backend test coverage**
+- Wrote **150+ Jest unit tests**
 
 ---
 
-## GitHub stats
+### Arch Global Logistics — Invoicing & Quotation System
+**React.js · Node.js · Express.js · MongoDB**
 
-<!-- 
-  ═══════════════════════════════════════════════════════
-  SETUP CHECKLIST (one-time — must do all 3 steps)
-  ═══════════════════════════════════════════════════════
-  STEP 1 — Enable private contributions on your profile:
-    GitHub → Settings → Edit profile
-    → tick "Include private contributions on my profile"
+Developed an invoicing and quotation platform with Saudi VAT compliance, transactional workflows, and internal business process automation.
 
-  STEP 2 — Add a Personal Access Token (PAT) as a repo secret
-    so the stats cards can read your private repos:
-    a) Go to: github.com/settings/tokens/new
-    b) Name it: STATS_TOKEN
-    c) Select scopes: repo (full) + read:user + read:org
-    d) Copy the token
-    e) Go to: github.com/hamza323/hamza323/settings/secrets/actions
-    f) Click "New repository secret"
-    g) Name: PAT_1  →  Value: paste your token
-    h) Save
+- Supported **50+ daily internal users**
+- Reduced manual accounting corrections by **~40%**
 
-  STEP 3 — For org repos (Blue Silo):
-    Go to github.com/orgs/bluesilodev/people
-    → find your name → set visibility to Public
-  ═══════════════════════════════════════════════════════
--->
+---
 
-<!-- Main stats: all commits + PRs + reviews from private & org repos -->
+## GitHub Stats
+
 ![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza323&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&theme=default)
 
-<!-- Streak: includes private repo contributions -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=hamza323&hide_border=true&theme=default)
 
-<!-- Top languages: reads ALL repos including calc-dash, abwaab-be, farjar-be, server-be, italla, itlla-be -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza323&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&exclude_repo=hamza323,frst&theme=default)
 
 ---
 
-## Currently open to
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamza323&theme=flat&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Open To Work
 
 - Full-time software engineering roles in **Jeddah, Saudi Arabia**
-- Freelance / contract projects (web, mobile, API integrations)
-- Saudi-market specific work: HyperPay, Nafath, Arabic platforms
+- Freelance and contract projects
+- Saudi-market focused platforms: **HyperPay, Nafath, Arabic platforms, VAT business logic**
 
-📩 **Reach me:** hamza01safdar@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/alihamza-9520211a2)
+📩 **Email:** hamza01safdar@gmail.com  
+🔗 **LinkedIn:** [alihamza-9520211a2](https://linkedin.com/in/alihamza-9520211a2)
