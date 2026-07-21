@@ -110,22 +110,6 @@ Developed an invoicing and quotation platform with Saudi VAT compliance, transac
 
 ---
 
-## GitHub Stats
-
-![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza323&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hamza323&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza323&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&exclude_repo=hamza323,frst&theme=default)
-
----
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamza323&theme=flat&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## Open To Work
 
 - Full-time software engineering roles in **Jeddah, Saudi Arabia**
